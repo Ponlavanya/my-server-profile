@@ -1,0 +1,15 @@
+ID=00931908
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=13.0
+EnforcementType=3
+Tier=Free
+IssueDate=2026-01-21
+ExpirationDate=2027-01-20
+GracePeriod=1
+DeploymentMethod=Traditional
+Organization=LikeMinds Consulting EMEA
+SignCode=FF1F
+Signature=302D0215009298BDFA615DE8DC2398B2CA4A8A3BED8D88591702140DF9A0654CB6A7C158D520913CD4A7560927F958
